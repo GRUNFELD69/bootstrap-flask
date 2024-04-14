@@ -42,7 +42,7 @@ flask-sqlalchemy==3.0.2
     # via -r requirements/tests.in
 flask-wtf==1.0.1
     # via -r requirements/tests.in
-idna==3.4
+idna==3.7
     # via requests
 imagesize==1.4.1
     # via sphinx
