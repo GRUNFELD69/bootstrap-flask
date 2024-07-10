@@ -57,5 +57,5 @@ werkzeug==2.2.2
     # via flask
 wtforms==3.0.1
     # via flask-wtf
-zipp==3.10.0
+zipp==3.19.1
     # via importlib-metadata
