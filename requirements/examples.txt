@@ -39,5 +39,5 @@ wtforms==3.0.1
     # via
     #   bootstrap-flask
     #   flask-wtf
-zipp==3.10.0
+zipp==3.19.1
     # via importlib-metadata
