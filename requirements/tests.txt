@@ -53,7 +53,7 @@ tomli==2.0.1
     # via
     #   coverage
     #   pytest
-werkzeug==2.2.2
+werkzeug==3.0.6
     # via flask
 wtforms==3.0.1
     # via flask-wtf
